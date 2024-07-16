@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Portland, Oregon</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello! I'm Spencer Veatch, a master's student in Data Science at Willamette University with a passion for solving hard problems. In my most recent role, I developed software tools and models to generate projections of climate similarity to aid in the development of renewable agriculture, and developed a cutting-edge approach to extract high-resolution irrigation estimates from Sentinel-2 to identify water waste. 
